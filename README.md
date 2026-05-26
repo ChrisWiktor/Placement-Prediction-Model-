@@ -1,5 +1,3 @@
-# Placement-Prediction-Model-
-
 # Placement Prediction Model with Logistic Regression
 
 ## Project Description
